@@ -18,13 +18,3 @@ Once the test setup is launched, generated some traces / metrics by visiting the
 http://127.0.0.1:3000/dashboard
 
 http://127.0.0.1:3000/products
-
-#### .NET
-http://127.0.0.1:3001/api/products
-
-http://127.0.0.1:3001/api/customers
-
-#### NodeJS
-http://127.0.0.1:3002/dashboard
-
-http://127.0.0.1:3002/orders
