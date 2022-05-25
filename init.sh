@@ -1,7 +1,7 @@
 #!/bin/bash
 
 APM_SERVER_URL="https://github.com/jlvoiseux/apm-server.git"
-APM_SERVER_BRANCH="otlp-http-receiver-rebased"
+APM_SERVER_BRANCH="main"
 
 OPBEANS_JAVA_URL="https://github.com/jlvoiseux/opbeans-java.git"
 OPBEANS_JAVA_BRANCH="otel-demo"
